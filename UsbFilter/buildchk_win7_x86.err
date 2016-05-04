@@ -1,0 +1,4 @@
+1>errors in directory h:\odeskwork\dave monk (usb pedal)\new folder (3)\usbfilter
+1>d:\winddk\7600.16385.1\bin\makefile.new(449) : error U1023: syntax error in expression
+1>nmake.exe /nologo BUILDMSG=Stop. -i /nologo /f d:\winddk\7600.16385.1\bin\makefile.def BUILD_PASS=PASS2 LINKONLY=1 NOPASS0=1 MAKEDIR_RELATIVE_TO_BASEDIR= failed - rc = 2
+

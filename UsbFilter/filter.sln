@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "filter", "filter.vcxproj", "{3224439E-5CA6-24B5-DAF1-9EE5CC834334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Checked|Win32 = Checked|Win32
+		Free|Win32 = Free|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3224439E-5CA6-24B5-DAF1-9EE5CC834334}.Checked|Win32.ActiveCfg = Checked|Win32
+		{3224439E-5CA6-24B5-DAF1-9EE5CC834334}.Checked|Win32.Build.0 = Checked|Win32
+		{3224439E-5CA6-24B5-DAF1-9EE5CC834334}.Free|Win32.ActiveCfg = Free|Win32
+		{3224439E-5CA6-24B5-DAF1-9EE5CC834334}.Free|Win32.Build.0 = Free|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\filter.obj \
+ $(OBJ_PATH)\$O\pnp.obj \
+ $(OBJ_PATH)\$O\power.obj \
+ $(OBJ_PATH)\$O\util.obj \
+
+
+_RES_FILE=$(OBJ_PATH)\$O\filter.res
+
+
+
+# lowercased
+BASEDIR=d:\winddk\7600.16385.1
+OBJECT_ROOT=d:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=h:\odeskwork\dave monk (usb pedal)\new folder (3)\usbfilter
+OBJ_PATH=h:\odeskwork\dave monk (usb pedal)\new folder (3)\usbfilter
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
